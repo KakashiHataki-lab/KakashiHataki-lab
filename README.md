@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on python and on my own website development.  
-😄 Fun facts: ... ?  
-
+🔭 I’m currently working on my python projects and a website on my own. 
 
 <div align="center">
   <a href="https://github.com/KakashiHataki-lab"> 
