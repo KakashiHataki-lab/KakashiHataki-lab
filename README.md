@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 🔭 I’m currently working on python and on my own website development.  
-📫 How to reach me: leonardostoeber@yahoo.com.br  
 😄 Fun facts: ... ?  
 
 
@@ -29,7 +28,9 @@
   <a href = "mailto:leonardostoeber@yahoo.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-stoeber/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- 
+   
+  📫 How to reach me: leonardostoeber@yahoo.com.br    
+  
 </div>
 
  <> ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
